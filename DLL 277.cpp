@@ -1,3 +1,6 @@
+//This program creates a Dynamic Linked list.
+//The user is able to add, remove, display and modify an ID.
+
 //Joan Estepan CIS 277
 #include <iostream>
 #include<stdio.h>
