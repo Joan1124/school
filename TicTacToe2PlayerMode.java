@@ -1,4 +1,6 @@
 //Made by Joan Estepan
+//This program contains the logic of the 2 player mode
+
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
